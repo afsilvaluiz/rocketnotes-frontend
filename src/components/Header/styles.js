@@ -36,6 +36,7 @@ export const Profile = styled.div`
 
 		span {
 			font-size: 14px;
+			font-weight: 500;
 			color: ${({ theme }) => theme.COLORS.GRAY_100};
 		}
 
@@ -52,7 +53,7 @@ export const Logout = styled.button`
 	background: none;
 
 	> svg {
-		color: ${({ theme }) => theme.COLORS.GRAY_100};
+		color: ${({ theme }) => theme.COLORS.BACKGROUND_600};
 		font-size: 24px;
 	}
 `
