@@ -1,9 +1,12 @@
-import { FiPlus, FiSearch } from 'react-icons/fi'
+import { FiPlus, FiSearch } from "react-icons/fi";
 
 import { Container, Brand, Menu, Search, Content, NewNote } from "./styles";
 
-import { Header } from "../../components/Header";
 import { Input } from "../../components/Input";
+import { Note } from "../../components/Note";
+
+import { Header } from "../../components/Header";
+import { Section } from "../../components/Section";
 import { ButtonText } from "../../components/ButtonText";
 
 export function Home() {
@@ -31,7 +34,19 @@ export function Home() {
 				<Input placeholder="Search by Title" icon={FiSearch} />
 			</Search>
 
-			<Content></Content>
+			<Content>
+				<Section title=" My Notes">
+					<Note
+						data={{
+							title: "React",
+							tags: [
+								{ id: "1", name: "react" },
+								{ id: "2", name: "nodejs" },
+							],
+						}}
+					/>
+				</Section>
+			</Content>
 
 			<NewNote>
 				<FiPlus />
