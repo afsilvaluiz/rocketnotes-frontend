@@ -13,7 +13,7 @@ export function SignUp() {
 				<h1>Rocket Notes</h1>
 				<p>App to save and manage your useful links</p>
 
-				<h2>Create Account</h2>
+				<h2>Create new account</h2>
 
 				<Input placeholder="Name" type="text" icon={FiUser} />
 
@@ -23,7 +23,7 @@ export function SignUp() {
         
 
 
-				<Button title="Enter" />
+				<Button title="Sign Up" />
 
 				<a href="#">Return to login</a>
 			</Form>
