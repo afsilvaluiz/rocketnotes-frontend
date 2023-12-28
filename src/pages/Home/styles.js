@@ -19,11 +19,13 @@ export const Container = styled.div`
 `
 
 export const Brand = styled.div`
-	grid-area: brand;
+	grid-area: brand;	
 
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	
+	
 
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
@@ -75,6 +77,7 @@ export const NewNote = styled(Link)`
 	justify-content: center;
 
 	svg {
-		margin-right: 8px;
+		margin-right: 8px;		
 	}
+
 `;

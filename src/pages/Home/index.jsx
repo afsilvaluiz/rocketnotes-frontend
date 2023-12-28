@@ -26,7 +26,7 @@ export function Home() {
 					<ButtonText title="React" />
 				</li>
 				<li>
-					<ButtonText title="Nodejs" isActive />
+					<ButtonText title="Nodejs" />
 				</li>
 			</Menu>
 
