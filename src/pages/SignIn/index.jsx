@@ -1,5 +1,9 @@
 import { FiMail, FiLock } from 'react-icons/fi'
+<<<<<<< HEAD
 import { Link } from 'react-router-dom'
+=======
+import { Link } from "react-router-dom"
+>>>>>>> developer
 
 import { Input } from '../../components/Input'
 import { Button } from '../../components/Button'
@@ -29,7 +33,11 @@ export function SignIn() {
 
         <Button title="Enter" />
 
+<<<<<<< HEAD
         <Link to="/register">
+=======
+      <Link to="/register">
+>>>>>>> developer
           Sign Up
         </Link>
 			</Form>

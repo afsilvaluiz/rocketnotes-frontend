@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { Link } from 'react-router-dom'
+=======
+import { Link } from "react-router-dom"
+>>>>>>> developer
 import { Textarea } from '../../components/Textarea'
 import { NoteItem } from '../../components/NoteItem'
 import { Section } from '../../components/Section'

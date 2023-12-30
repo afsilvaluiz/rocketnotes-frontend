@@ -1,5 +1,9 @@
 import { FiUser, FiMail, FiLock} from "react-icons/fi";
+<<<<<<< HEAD
 import { Link } from 'react-router-dom'
+=======
+import { Link } from "react-router-dom"
+>>>>>>> developer
 
 import { Input } from "../../components/Input";
 import { Button } from "../../components/Button";
@@ -26,6 +30,10 @@ export function SignUp() {
 
 				<Button title="Sign Up" />
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> developer
 				<Link to="/">Return to login</Link>
 			</Form>
 		</Container>
