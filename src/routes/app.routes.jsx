@@ -6,11 +6,8 @@ import { Details } from '../pages/Details'
 import { Profile } from '../pages/Profile'
 
 export function AppRoutes() {
-<<<<<<< HEAD
   return(
-=======
-  return (
->>>>>>> developer
+
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/new" element={<New />} />
@@ -18,8 +15,5 @@ export function AppRoutes() {
       <Route path="/details/:id" element={<Details />} />
     </Routes>
   )
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> developer

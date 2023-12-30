@@ -1,11 +1,6 @@
 import { FiArrowLeft, FiUser, FiMail, FiLock, FiCamera } from "react-icons/fi";
-<<<<<<< HEAD
 import { Link } from 'react-router-dom'
- 
-=======
-import { Link } from "react-router-dom"
 
->>>>>>> developer
 import { Input } from "../../components/Input";
 import { Button } from "../../components/Button";
 

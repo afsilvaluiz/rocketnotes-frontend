@@ -1,9 +1,7 @@
 import styled from 'styled-components'
-<<<<<<< HEAD
+
 import { Link } from 'react-router-dom'
-=======
-import { Link } from "react-router-dom"
->>>>>>> developer
+
 
 export const Container = styled.header`
   grid-area: header;
