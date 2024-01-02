@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 import { FiMail, FiLock } from 'react-icons/fi'
-import { Link } from "react-router-dom"
+import { Link } from 'react-router-dom'
 
 import { useAuth } from '../../hooks/auth'
 
@@ -44,7 +44,10 @@ export function SignIn() {
 
         <Button title="Enter" onClick={handleSignIn} />
 
-        <Link to="/register">Sign Up</Link>
+
+        <Link to="/register">
+          Sign Up
+       </Link>
       </Form>
 
       <Background />

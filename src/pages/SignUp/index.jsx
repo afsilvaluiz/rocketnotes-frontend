@@ -1,8 +1,10 @@
 import { useState } from "react"
 import { FiUser, FiMail, FiLock} from "react-icons/fi";
+
 import { Link, useNavigate } from "react-router-dom"
 
 import { api } from "../../services/api"
+
 
 import { Input } from "../../components/Input";
 import { Button } from "../../components/Button";
@@ -69,8 +71,10 @@ export function SignUp() {
 
         <Button title="Sign Up" onClick={handleSignUp} />
 
+
         <Link to="/">Return to login</Link>
       </Form>
     </Container>
   )
+
 }
