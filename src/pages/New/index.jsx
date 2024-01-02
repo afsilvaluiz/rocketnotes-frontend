@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
 
 import { Textarea } from '../../components/Textarea'
@@ -10,38 +11,59 @@ import { Input } from '../../components/Input'
 import { Container, Form } from './styles'
  
 export function New() {
+	const [links, setLinks] = useState([])
+	const [newLink, setNewLink] = useState("")
+
+	function handleAddLink() {
+		setLinks(prevState => [...prevState, newLink])
+		setNewLink("")
+	}
+
+
+
   return (
-		<Container>
-			<Header />
+    <Container>
+      <Header />
 
-			<main>
-				<Form>
-					<header>
-						<h1>Create note</h1>
-						<Link to="/">back</Link>
-					</header>
+      <main>
+        <Form>
+          <header>
+            <h1>Create note</h1>
+            <Link to="/">back</Link>
+          </header>
 
-					<Input placeholder="Title" />
-					<Textarea placeholder="Comments" />
+          <Input placeholder="Title" />
+          <Textarea placeholder="Comments" />
 
-					<Section title="Useful links">
-						<NoteItem value="https://google.com" />
-						<NoteItem isNew placeholder="New link" />
-					</Section>
+          <Section title="Useful links">
+            {
+							links.map((link, index) => (
+								<NoteItem 
+									key={String(index)} 
+									value={link} 
+									onClick={() => {}} 
+								/>
+            	))
+						}
+            <NoteItem
+              isNew
+              placeholder="New link"
+              value={newLink}
+              onChange={e => setNewLink(e.target.value)}
+              onClick={handleAddLink}
+            />
+          </Section>
 
-					<Section title="Bookmakers">
-						
+          <Section title="Bookmakers">
             <div className="tags">
               <NoteItem value="react" />
               <NoteItem isNew placeholder="New tag" />
             </div>
-
-
-					</Section>
+          </Section>
 
           <Button title="Save" />
-				</Form>
-			</main>
-		</Container>
-	)
+        </Form>
+      </main>
+    </Container>
+  )
 }
