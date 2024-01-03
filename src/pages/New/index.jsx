@@ -53,13 +53,10 @@ export function New() {
     if (newLink) {
       return alert("There's a link in the field, click 'Add' or leave it empty")
     }
-    
+
     if(newTag) {
       return alert("There's a tag in the field, click 'Add' or leave it empty")
     }
-
-
-
 
     await api.post("/notes", {
       title,
