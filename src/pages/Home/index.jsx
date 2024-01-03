@@ -85,7 +85,7 @@ export function Home() {
         <Input
           placeholder="Search by Title"
           icon={FiSearch}
-          onChange={() => setSearch(e.target.value)}
+          onChange={(e) => setSearch(e.target.value)}
         />
       </Search>
 
