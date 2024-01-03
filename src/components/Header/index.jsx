@@ -5,6 +5,8 @@ import { api } from '../../services/api'
 
 import { Container, Profile, Logout } from './styles'
 
+import avatarPlaceholder from "../../assets/avatar_placeholder.svg"
+
 export function Header() {
 	const { signOut, user } = useAuth()
 
@@ -16,7 +18,7 @@ export function Header() {
   return (
     <Container>
       <Profile to="/profile">
-        <img src={avatarUrl} alt="{user.name}" />
+        <img src={avatarUrl} alt={user.name} />
 
         <div>
           <span>Welcome</span>
