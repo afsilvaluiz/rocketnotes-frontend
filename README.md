@@ -22,7 +22,7 @@
 </p>
 
 <p>
-  <img src=".github/cover.jpg" alt="cover rocketnotes web" />
+  <img src=".github/cover.png" alt="cover rocketnotes web" />
 </p>
 
 <h4 align="center"> 
