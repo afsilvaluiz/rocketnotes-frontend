@@ -42,9 +42,10 @@ export const Form = styled.form`
 
 export const Background = styled.div`
   flex: 1;
-  background: url(${backgroundImg}) no-repeat center;
-
+  background: linear-gradient(to right, rgba(35, 33, 41, 0.3), rgba(35, 33, 41, 0.1)), url(${backgroundImg}) no-repeat center;	
   background-size: cover;
+
+	
 
 
 
