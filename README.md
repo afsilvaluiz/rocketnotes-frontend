@@ -28,3 +28,69 @@
 <h4 align="center"> 
 	🚀 Application completed 🚀
 </h4>
+
+## 💻 About
+
+Rocketnotes is a web application in which users can register and create organized notes on certain subjects, adding a title, description, links and tags to each note, as well as editing the user's profile, being able to change their avatar, name, email and password.
+
+It's worth mentioning that this project is part of the Explorer trail/course offered by Rocketseat to anyone interested.
+
+---
+
+## 🎨 Layout
+
+### Web
+
+#### SignUp
+<p align="center">
+  <img
+    alt="Rocketnotes Web Demonstration SignUp"
+    title="Rocketnotes Web Demonstration SignUp"
+    src=".github/SignUp.png" width="100%"
+  />
+</p>
+
+#### SignIn
+<p align="center">
+  <img
+    alt="Rocketnotes Web Demonstration SignIn"
+    title="Rocketnotes Web Demonstration SignIn"
+    src=".github/SignIn.png" width="100%"
+  />
+</p>
+
+#### Home
+<p align="center">
+  <img
+    alt="Rocketnotes Web Demonstration Home"
+    title="Rocketnotes Web Demonstration Home"
+    src=".github/Home.png" width="100%"
+  />
+</p>
+
+#### Profile
+<p align="center">
+  <img
+    alt="Rocketnotes Web Demonstration Profile"
+    title="Rocketnotes Web Demonstration Profile"
+    src=".github/Profile.png" width="100%"
+  />
+</p>
+
+#### Note Create
+<p align="center">
+  <img
+    alt="Rocketnotes Web Demonstration Note Create"
+    title="Rocketnotes Web Demonstration Note Create"
+    src=".github/NoteCreate.png" width="100%"
+  />
+</p>
+
+#### Note Preview
+<p align="center">
+  <img
+    alt="Rocketnotes Web Demonstration Note Preview"
+    title="Rocketnotes Web Demonstration Note Preview"
+    src=".github/NotePreview.png" width="100%"
+  />
+</p>
