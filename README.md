@@ -1,8 +1,30 @@
-# React + Vite
+<h1 align="center">
+    <img src=".github/notes.svg" title="Rocketnotes" alt="" width="45px" />   
+    Rocketnotes Web
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/afsilvaluiz/rocketnotes-frontend">
 
-Currently, two official plugins are available:
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/afsilvaluiz/rocketnotes-frontend" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/afsilvaluiz/rocketnotes-frontend">
+  
+  <a href="https://github.com/afsilvaluiz/rocketnotes-frontend/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/afsilvaluiz/rocketnotes-frontend">
+  </a>
+ 
+  <img alt="License" src="https://img.shields.io/github/license/afsilvaluiz/rocketnotes-frontend">
+
+   <a href="https://github.com/afsilvaluiz/rocketnotes-frontend/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/afsilvaluiz/rocketnotes-frontend?style=social">
+  </a>
+</p>
+
+<p>
+  <img src=".github/cover.jpg" alt="cover rocketnotes web" />
+</p>
+
+<h4 align="center"> 
+	🚀 Application completed 🚀
+</h4>
