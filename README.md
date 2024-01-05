@@ -42,6 +42,6 @@ It's worth mentioning that this project is part of the Explorer trail/course off
 ### Web
  
  
-<img title="SignUp" src=".github/SignIn.png" width="30%"></img> <img title="SignIn" src=".github/SignUp.png" width="30%"></img> <img title="Profile" src=".github/Profile.png" width="30%" height="160"></img>
+<img title="SignUp" src=".github/SignIn.png" width="30%"></img> <img title="SignIn" src=".github/SignUp.png" width="30%"></img> <img title="Profile" src=".github/Profile.png" width="30%" height="170"></img>
 
 <img title="Home" src=".github/Home.png" width="30%"></img>  <img title="Create Note" src=".github/NoteCreate.png" width="30%"></img> <img title="Note Preview" src=".github/NotePreview.png" width="30%"></img>
