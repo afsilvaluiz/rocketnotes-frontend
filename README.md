@@ -29,6 +29,16 @@
 	🚀 Application completed 🚀
 </h4>
 
+<p align="center">
+ <a href="#-about">About</a> |
+ <a href="#-layout">Layout</a> | 
+ <!-- <a href="#-deploy">Deploy</a> | -->
+ <a href="#-how-it-works">How It Works</a> | 
+ <a href="#-technologies">Technologies</a> | 
+ <a href="#-author">Author</a> | 
+ <a href="#-license">License</a>
+</p>
+
 ## 💻 About
 
 Rocketnotes is a web application in which users can register and create organized notes on certain subjects, adding a title, description, links and tags to each note, as well as editing the user's profile, being able to change their avatar, name, email and password.
