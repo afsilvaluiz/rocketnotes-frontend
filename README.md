@@ -39,7 +39,7 @@ It's worth mentioning that this project is part of the Explorer trail/course off
 
 ## 🎨 Layout
 
-You can view the project layout via <a href="https://www.figma.com/file/ePICXYr6qQFPFHEttHlDvs/Rocketnotes?type=design&node-id=0-1&mode=design&t=qQju3Z5zkS3Yhkjs-0" target="blank">link</a>.
+You can view the project layout via <a href="https://www.figma.com/file/ePICXYr6qQFPFHEttHlDvs/Rocketnotes?type=design&node-id=0-1&mode=design&t=qQju3Z5zkS3Yhkjs-0" target="_blank">link</a>.
  
 <img title="SignUp" src=".github/SignIn.png" width="30%"></img> <img title="SignIn" src=".github/SignUp.png" width="30%"></img> <img title="Profile" src=".github/Profile.png" width="30%" height="177"></img>
 
@@ -47,7 +47,7 @@ You can view the project layout via <a href="https://www.figma.com/file/ePICXYr6
 
 ## ⚙️ How it works
 
-This project contains Front-end (React) and Back-end (Node) parts, however, this repository only contains the Front-end Web part, to access the Back-end repository go to the following [link](https://github.com/afsilvaluiz/rocketnotes-backend)
+This project contains Front-end (React) and Back-end (Node) parts, however, this repository only contains the Front-end Web part, to access the Back-end repository go to the following <a href="https://github.com/afsilvaluiz/rocketnotes-backend" target="_blank">link</a>.
 
 
 ## 🛠 Technologies
