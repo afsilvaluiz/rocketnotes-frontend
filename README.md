@@ -40,57 +40,8 @@ It's worth mentioning that this project is part of the Explorer trail/course off
 ## 🎨 Layout
 
 ### Web
+ 
+ 
+<img title="SignUp" src=".github/SignIn.png" width="30%"></img> <img title="SignIn" src=".github/SignUp.png" width="30%"></img> <img title="Profile" src=".github/Profile.png" width="30%" height="160"></img>
 
-#### SignUp
-<p align="center">
-  <img
-    alt="Rocketnotes Web Demonstration SignUp"
-    title="Rocketnotes Web Demonstration SignUp"
-    src=".github/SignUp.png" width="100%"
-  />
-</p>
-
-#### SignIn
-<p align="center">
-  <img
-    alt="Rocketnotes Web Demonstration SignIn"
-    title="Rocketnotes Web Demonstration SignIn"
-    src=".github/SignIn.png" width="100%"
-  />
-</p>
-
-#### Home
-<p align="center">
-  <img
-    alt="Rocketnotes Web Demonstration Home"
-    title="Rocketnotes Web Demonstration Home"
-    src=".github/Home.png" width="100%"
-  />
-</p>
-
-#### Profile
-<p align="center">
-  <img
-    alt="Rocketnotes Web Demonstration Profile"
-    title="Rocketnotes Web Demonstration Profile"
-    src=".github/Profile.png" width="100%"
-  />
-</p>
-
-#### Note Create
-<p align="center">
-  <img
-    alt="Rocketnotes Web Demonstration Note Create"
-    title="Rocketnotes Web Demonstration Note Create"
-    src=".github/NoteCreate.png" width="100%"
-  />
-</p>
-
-#### Note Preview
-<p align="center">
-  <img
-    alt="Rocketnotes Web Demonstration Note Preview"
-    title="Rocketnotes Web Demonstration Note Preview"
-    src=".github/NotePreview.png" width="100%"
-  />
-</p>
+<img title="Home" src=".github/Home.png" width="30%"></img>  <img title="Create Note" src=".github/NoteCreate.png" width="30%"></img> <img title="Note Preview" src=".github/NotePreview.png" width="30%"></img>
