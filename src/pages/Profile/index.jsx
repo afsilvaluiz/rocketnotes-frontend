@@ -31,7 +31,6 @@ export function Profile() {
     navigate(-1)
   }
 
-
   async function handleUpdate() {
     const updated = {
       name,
