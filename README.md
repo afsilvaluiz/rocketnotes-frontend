@@ -55,7 +55,7 @@ You can view the project layout via <a href="https://www.figma.com/file/ePICXYr6
 
 <img title="Home" src=".github/Home.png" width="30%"></img>  <img title="Create Note" src=".github/NoteCreate.png" width="30%"></img> <img title="Note Preview" src=".github/NotePreview.png" width="30%"></img>
 
-## 🚀 How it works
+## ⚙️ How it works
 
 This project contains Front-end (React) and Back-end (Node) parts, however, this repository only contains the Front-end Web part, to access the Back-end repository go to the following <a href="https://github.com/afsilvaluiz/rocketnotes-backend" target="_blank">link</a>.
 
