@@ -1,5 +1,3 @@
-<base target="_blank">
-
 <h1 align="center">
     <img src=".github/notes.svg" title="Rocketnotes" alt="" width="45px" />   
     Rocketnotes Web
@@ -41,7 +39,7 @@ It's worth mentioning that this project is part of the Explorer trail/course off
 
 ## 🎨 Layout
 
-You can view the project layout via <a href="https://www.figma.com/file/ePICXYr6qQFPFHEttHlDvs/Rocketnotes?type=design&node-id=0-1&mode=design&t=qQju3Z5zkS3Yhkjs-0" target="_blank">link</a>.
+You can view the project layout via <a href="https://www.figma.com/file/ePICXYr6qQFPFHEttHlDvs/Rocketnotes?type=design&node-id=0-1&mode=design&t=qQju3Z5zkS3Yhkjs-0" target="blank">link</a>.
  
 <img title="SignUp" src=".github/SignIn.png" width="30%"></img> <img title="SignIn" src=".github/SignUp.png" width="30%"></img> <img title="Profile" src=".github/Profile.png" width="30%" height="177"></img>
 
