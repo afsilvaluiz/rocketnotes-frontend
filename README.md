@@ -39,9 +39,37 @@ It's worth mentioning that this project is part of the Explorer trail/course off
 
 ## 🎨 Layout
 
-### Web
- 
+You can view the project layout via [this link](https://www.figma.com/file/ePICXYr6qQFPFHEttHlDvs/Rocketnotes?type=design&node-id=0-1&mode=design&t=qQju3Z5zkS3Yhkjs-0).
  
 <img title="SignUp" src=".github/SignIn.png" width="30%"></img> <img title="SignIn" src=".github/SignUp.png" width="30%"></img> <img title="Profile" src=".github/Profile.png" width="30%" height="177"></img>
 
 <img title="Home" src=".github/Home.png" width="30%"></img>  <img title="Create Note" src=".github/NoteCreate.png" width="30%"></img> <img title="Note Preview" src=".github/NotePreview.png" width="30%"></img>
+
+## ⚙️ How it works
+
+This project contains Front-end (React) and Back-end (Node) parts, however, this repository only contains the Front-end Web part, to access the Back-end repository go to the following [link](https://github.com/afsilvaluiz/rocketnotes-backend)
+
+
+## 🛠 Technologies
+
+The following tools were used to build the project:
+
+#### *Website* ([Vite](https://vitejs.dev/)  +  [React](https://react.dev/))
+
+-   *[Styled-Components](https://styled-components.com/)*
+-   *[React-Query](https://react-query-v3.tanstack.com/)*
+-   *[React-Icons](https://react-icons.github.io/react-icons/)*
+-   *[React-Router-DOM](https://reactrouter.com/en/main/start/tutorial)*
+
+> For more details on the application's general dependencies, see the file [package.json](https://github.com/afsilvaluiz/rocketnotes-frontend/blob/main/package.json).
+
+## 🧑🏻‍💻 Author
+
+ <img alt="Github" title="Github" src="https://github.com/afsilvaluiz.png" width="100px" >
+
+
+## 📝 License
+
+This project is under the MIT license. See the [LICENSE](./LICENSE) file for more information
+
+Made with 💜 by Luiz Silva 👋🏽
