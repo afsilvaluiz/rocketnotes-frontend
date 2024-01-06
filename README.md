@@ -82,4 +82,4 @@ The following tools were used to build the project:
 
 This project is under the MIT license. See the [LICENSE](./LICENSE) file for more information
 
-Made with 💜 by Luiz Silva 👋🏽
+Made with 🎓 by Luiz Silva 🧑🏻‍💻
