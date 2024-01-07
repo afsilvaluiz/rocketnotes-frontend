@@ -32,7 +32,7 @@
 <p align="center">
  <a href="#-about">About</a> |
  <a href="#-layout">Layout</a> | 
- <!-- <a href="#-deploy">Deploy</a> | -->
+ <a href="#-deploy">Deploy</a>
  <a href="#-how-it-works">How It Works</a> | 
  <a href="#-technologies">Technologies</a> | 
  <a href="#-author">Author</a> | 
@@ -55,10 +55,63 @@ You can view the project layout via <a href="https://www.figma.com/file/ePICXYr6
 
 <img title="Home" src=".github/Home.png" width="30%"></img>  <img title="Create Note" src=".github/NoteCreate.png" width="30%"></img> <img title="Note Preview" src=".github/NotePreview.png" width="30%"></img>
 
+## 🔗 Deploy
+
+To access the application's website deployment, click on the following link: [Link](https://minerocketnotes.netlify.app/)
+
+> Note: the application may take a while to start running after a while, due to the back-end running through the free plan on the hosting platform.
+
+
 ## 🧰 How it works
 
 This project contains Front-end (React) and Back-end (Node) parts, however, this repository only contains the Front-end Web part, to access the Back-end repository go to the following <a href="https://github.com/afsilvaluiz/rocketnotes-backend" target="_blank">link</a>.
 
+### Requirements
+
+Before downloading the project you will need to have the following tools installed on your machine:
+
+* [Git](https://git-scm.com)
+* [NodeJS](https://nodejs.org/en/)
+* [Yarn](https://yarnpkg.com/) or [NPM](https://www.npmjs.com/)
+
+> Note: and don't forget that you also need to run the application's back-end to fetch and check the necessary data
+
+```bash
+# Clone this repository
+$ git clone git@github.com:afsilvaluiz/rocketnotes-backend.git
+
+# Access the project folder in the terminal/cmd
+$ cd rocketnotes-backend
+
+# Go to the server folder
+$ cd server
+
+# Install the dependencies
+$ npm install
+
+# Run the application in development mode
+$ npm run dev
+
+# The server will start on port:3333 - go to http://localhost:3333 
+``` -->
+
+#### 🧭 Running the web application (Frontend)
+
+```bash
+# Clone this repository
+$ git clone git@github.com:afsilvaluiz/rocketnotes-frontend.git
+
+# Go to the Front End application folder
+$ cd rocketnotes-frontend
+
+# Install the dependencies
+$ npm install
+
+# Run the application in development mode
+$ npm run dev
+
+# The application will be opened on a port specified in the run terminal
+```
 
 ## 🛠 Technologies
 
